@@ -13,7 +13,8 @@ Backend: Spring Boot REST application. The application meets all the requirement
 
 Frontend: Angular Application.
 
-Tech Stack: <br>
+Tech Stack:
+
 Backend:
 - Java 17
 - Spring Boot 3
@@ -26,7 +27,9 @@ Frontend:
 - Angular 15
 
 App features: 
+
 As Admin:
+
 - Crud operations on Students,
 - Adding hours locks,
 - Crud operations on Lessons,
@@ -35,6 +38,7 @@ As Admin:
 - Newsletter – sending messages to clients,
 - Generating .pdf files with teachers working hours summary (single, group, historic).
  As Student:
+ 
 - Booking lessons (advanced feature consisting of choosing the day, hour, instructor and car, sending a request to an admin and getting confirmation via e-mail),
 - Browsing finance history,
 - Browsing lessons history,
