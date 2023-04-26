@@ -1,4 +1,3 @@
-# .github
 Project name: Driving School Manager
 
 Developers: Jakub Szymański, Przemysław Frąckowiak-Szymański, Jakub Piecuch
