@@ -8,7 +8,8 @@ Developers:
 General app description: The main purpose of the application is to solve the problem of manual registration for individual driving lessons at a driving school. The solution will be to create a personalized web application for driving schools in the country.
 
 Technical description: 
-Backend: Spring Boot REST application. The application meets all the requirements of level 2 of the richardson maturity model. We use tools such as lombok and mapstruct. We focus on creating clean code and using apprioriate  design patters, e.g. DTO Pattern.
+
+Backend: Spring Boot REST application. The application meets all the requirements of level 2 of the Richardson Maturity Model. We use tools such as Lombok and MapStruct. We focus on creating clean code and using appropriate design patters, e.g. DTO Pattern.
 
 Frontend: Angular Application.
 
