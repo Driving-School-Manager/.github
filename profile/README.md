@@ -1,6 +1,9 @@
 Project name: Driving School Manager
 
-Developers: Jakub Szymański, Przemysław Frąckowiak-Szymański, Jakub Piecuch
+Developers: 
+- Jakub Szymański, 
+- Przemysław Frąckowiak-Szymański, 
+- Jakub Piecuch
 
 General app description: The main purpose of the application is to solve the problem of manual registration for individual driving lessons at a driving school. The solution will be to create a personalized web application for driving schools in the country.
 
@@ -9,17 +12,19 @@ Backend: Spring Boot REST application. The application meets all the requirement
 
 Frontend: Angular Application.
 
-Tech Stack:
+Tech Stack: <br>
 Backend:
-Java 17
-Spring Boot 3
-JUnit 5
-DataBase: H2
+- Java 17
+- Spring Boot 3
+- JUnit 5
+
+DataBase: 
+- H2 for develop
 
 Frontend:
-Angular 15
+- Angular 15
 
-App features:
+App features: 
 As Admin:
 - Crud operations on Students,
 - Adding hours locks,
@@ -28,7 +33,7 @@ As Admin:
 - Browsing, editing and printing information about students,
 - Newsletter – sending messages to clients
 - generating pdf files with teachers working hours summary (single, group, historic).
-As Student:
+ As Student:
 - booking lessons (advanced feature consinting of choosing day, hour, instructor and car, sending request to admin and getting confirmation via e-mail)
 - browsing finance history
 - browsing lessons history
