@@ -20,7 +20,7 @@ Backend:
 - JUnit 5
 
 DataBase: 
-- H2 for develop
+- H2 and/or MySQL for development
 
 Frontend:
 - Angular 15
@@ -30,16 +30,16 @@ As Admin:
 - Crud operations on Students,
 - Adding hours locks,
 - Crud operations on Lessons,
-- dynamic search of students
-- Browsing, editing and printing information about students,
-- Newsletter – sending messages to clients
-- generating pdf files with teachers working hours summary (single, group, historic).
+- Dynamic search of Students,
+- Browsing, editing and printing information about Students,
+- Newsletter – sending messages to clients,
+- Generating .pdf files with teachers working hours summary (single, group, historic).
  As Student:
-- booking lessons (advanced feature consinting of choosing day, hour, instructor and car, sending request to admin and getting confirmation via e-mail)
-- browsing finance history
-- browsing lessons history
-- generating pdf with particular informations (like payments, lessons etc.)
-- receiving messages via newsletter
+- Booking lessons (advanced feature consisting of choosing the day, hour, instructor and car, sending a request to an admin and getting confirmation via e-mail),
+- Browsing finance history,
+- Browsing lessons history,
+- Generating .pdf files with particular informations (like payments, lessons etc.),
+- Receiving messages via newsletter.
 
 Version control: 
 system: GIT
