@@ -47,7 +47,7 @@ The main purpose of the application is to solve the problem of manual registrati
 
 ### Version control: 
 - system: GIT
-- branch naming: Developer signature + “_ft_ + feature short name, eg. “js_ft_addingStudents”
+- branch naming: Developer signature + "ft" + feature short name, eg. “js_ft_addingStudents”
 - commit naming: Developer signature + action (feature, fix, change, delete or test) + feature name, eg. “js_fix_addingStudents”
 - main branches:
   - main – release app version
