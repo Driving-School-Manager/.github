@@ -11,7 +11,7 @@ The main purpose of the application is to solve the problem of manual registrati
 ### Technical description: 
 **Backend:** Spring Boot REST application. The application meets all the requirements of level 2 of the Richardson Maturity Model. We use tools such as Lombok and MapStruct. We focus on creating clean code and using appropriate design patters, e.g. DTO Pattern.
 
-**Frontend:** Angular Application.
+**Frontend:** Angular Application with PrimeNG Library.
 
 ### Tech Stack:
 **Backend:**
@@ -23,7 +23,7 @@ The main purpose of the application is to solve the problem of manual registrati
 - H2 and/or MySQL for development
 
 **Frontend:**
-- Angular 15
+- Angular 15 
 
 ### App features: 
 
